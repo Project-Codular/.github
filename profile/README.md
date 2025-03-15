@@ -1,4 +1,9 @@
 # Project Codezilla
 
-Codezilla is a platform for generating coding problems using AI-powered tools (GigaChat/YaGPT). It creates customized programming tasks in Python, C++, and Java based on user requests. Beyond generation, it also checks solutions, providing helpful error hints derived from its problem-creation engine. Ideal for learners and developers seeking practice with instant feedback.
+**Codezilla** is an AI-powered platform (GigaChat/YaGPT) that generates custom coding problems in *Python*, *C++*, and *Java* based on user requests. Ideal for developers and learners seeking tailored practice.
 
+## Features
+
+1. **Problem Generation**: Create unique coding tasks instantly.
+2. **Language Support**: Works with *Python*, *C++*, and *Java*.
+3. **User-Driven**: Customize problems to fit your needs 🚀.
