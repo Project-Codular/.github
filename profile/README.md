@@ -1,6 +1,6 @@
 # Project Codezilla
 
-**Codezilla** is an AI-powered platform (GigaChat/YaGPT) that generates custom coding problems in *Python*, *C++*, and *Java* based on user requests. Ideal for developers and learners seeking tailored practice.
+**Codular** is an AI-powered platform that generates custom coding problems in *Python*, *C++*, and *Java* based on user requests. Ideal for developers and learners seeking tailored practice.
 
 ## Features
 
