@@ -1,4 +1,4 @@
-# Project Codezilla
+# Project Codular
 
 **Codular** is an AI-powered platform that generates custom coding problems in *Python*, *C++*, and *Java* based on user requests. Ideal for developers and learners seeking tailored practice.
 
